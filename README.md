@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=A3DCBE&text=Haneul&reversal=false&textBg=false&desc=git%20hub)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Haneul&section=header&desc=github)
 
 ## Hi, Im Haneul</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <br> <br> 🔭 I’m currently learning coding <br> 🏐 I like a volleyball<br>📫 littlehn08@gmail.com
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaneul2008%2Fhit-counter&count_bg=%23CEE5BD&title_bg=%23668BBC&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -20,3 +20,6 @@
 ![JS](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JS](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
+
